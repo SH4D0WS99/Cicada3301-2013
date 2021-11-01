@@ -1,6 +1,6 @@
 # Cicada 2013 puzzle
 
-Date: 8-10-2021 | Author: SH4D0WS_
+Date: 8-10-2021 | Author: @SH4D0WS99
 
 ## 1. 2013.jpg
 1. Ran outguess revealed ```2013.out```.
@@ -22,7 +22,7 @@ Date: 8-10-2021 | Author: SH4D0WS_
 6. The message contains the twitter username for the account ```@1231507051321```.
 7. The twitter account contains a large amount of tweets resulting in a hexdump of a file.
 8. Making a binary file using the command: ```xxd -c 65 -r twitter > twitter.bin```.
-9. XORing the files ```560.13``` & ```761.mp3``` from the 3301.iso file and outputting this in a ```560761``` binary file.
+9. XORing the files ```560.13``` & ```761.mp3``` from the 3301.iso file and outputting this in a binary file called ```560761.bin```.
 10. XORing the binary files ```twitter.bin``` & ```560761.bin``` revealed a PNG file.
 11. XORing the binary file ```twitter.bin``` & the audio file ```761.mp3``` revealed the Gematria Primus rune translation JPG.
 
