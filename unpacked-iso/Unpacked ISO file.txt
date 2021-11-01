@@ -1,0 +1,2 @@
+Due to GitHub size restrictions you have to unpack the 3301.iso file yourself.
+Use 7zip to do the trick :)
